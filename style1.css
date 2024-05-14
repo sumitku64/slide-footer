@@ -153,6 +153,7 @@ footer {
 
 .socialicon {
     justify-content: center;
+    align-items: center;
 }
 
 .socialicon a {
